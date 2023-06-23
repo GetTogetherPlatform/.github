@@ -4,7 +4,7 @@ Welcome to GetTogether, the ultimate app for finding and creating exciting event
 
 Designed for everyone, our playful and user-friendly interface makes event discovery a breeze. With a wide range of features and a vibrant community, GetTogether is your go-to app for connecting with like-minded individuals and experiencing memorable moments.
 
-Key Features:
+#Key Features:
 
 🎉 Explore and Discover: Dive into a world of endless possibilities as you explore a diverse range of events happening in your vicinity. From concerts and parties to workshops and meetups, find the perfect event that matches your interests.
 
